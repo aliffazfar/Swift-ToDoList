@@ -25,6 +25,7 @@ struct MainView: View {
             ToDoListView(userID: viewModel.currentUserId)
                 .tabItem{
                     Label("Home", systemImage: "house")
+                            .foregroundColor(Color(.secondaryLabel))
                 }
             ProfileView()
                 .tabItem{
