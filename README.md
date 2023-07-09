@@ -5,9 +5,9 @@ In this project, I am learning to develop a To-Do List application using the Swi
 along with Firebase Authentication for user management and document-based storage.
 
 ## Technologies Used
-- Swift: A powerful and intuitive programming language used for iOS, macOS, watchOS, and tvOS app development.
-- Firebase: A comprehensive platform provided by Google that offers a variety of backend services, including authentication and real-time database capabilities.
-- Firebase Authentication: Part of the Firebase suite, it provides a simple and secure way to authenticate and manage users in your application.
+- Swift
+- Firebase
+- Firebase Authentication
 - Document-Based Storage: This approach allows users to create, edit, and manage documents (in this case, to-do list items) within the application.
 
 ## Project Goals
