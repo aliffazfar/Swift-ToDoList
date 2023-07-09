@@ -32,6 +32,8 @@
 		DF3A5B632A59535E00DDBDA9 /* ToDoListItemsViewViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = DF3A5B622A59535E00DDBDA9 /* ToDoListItemsViewViewModel.swift */; };
 		DF3A5B662A59578D00DDBDA9 /* HeaderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DF3A5B652A59578C00DDBDA9 /* HeaderView.swift */; };
 		DF3A5B682A595C6800DDBDA9 /* Colors.swift in Sources */ = {isa = PBXBuildFile; fileRef = DF3A5B672A595C6800DDBDA9 /* Colors.swift */; };
+		DF3A5B6C2A5A72F300DDBDA9 /* AdaptsToSoftwareKeyboard.swift in Sources */ = {isa = PBXBuildFile; fileRef = DF3A5B6B2A5A72F300DDBDA9 /* AdaptsToSoftwareKeyboard.swift */; };
+		DF3A5B6E2A5A8A7600DDBDA9 /* TLButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = DF3A5B6D2A5A8A7600DDBDA9 /* TLButton.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -58,6 +60,8 @@
 		DF3A5B622A59535E00DDBDA9 /* ToDoListItemsViewViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToDoListItemsViewViewModel.swift; sourceTree = "<group>"; };
 		DF3A5B652A59578C00DDBDA9 /* HeaderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HeaderView.swift; sourceTree = "<group>"; };
 		DF3A5B672A595C6800DDBDA9 /* Colors.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Colors.swift; sourceTree = "<group>"; };
+		DF3A5B6B2A5A72F300DDBDA9 /* AdaptsToSoftwareKeyboard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AdaptsToSoftwareKeyboard.swift; sourceTree = "<group>"; };
+		DF3A5B6D2A5A8A7600DDBDA9 /* TLButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TLButton.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -163,6 +167,8 @@
 			children = (
 				DF3A5B652A59578C00DDBDA9 /* HeaderView.swift */,
 				DF3A5B672A595C6800DDBDA9 /* Colors.swift */,
+				DF3A5B6B2A5A72F300DDBDA9 /* AdaptsToSoftwareKeyboard.swift */,
+				DF3A5B6D2A5A8A7600DDBDA9 /* TLButton.swift */,
 			);
 			path = ViewComponents;
 			sourceTree = "<group>";
@@ -247,6 +253,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				DF3A5B4D2A59520000DDBDA9 /* LoginView.swift in Sources */,
+				DF3A5B6E2A5A8A7600DDBDA9 /* TLButton.swift in Sources */,
 				DF3A5B662A59578D00DDBDA9 /* HeaderView.swift in Sources */,
 				DF3A5B282A5949BE00DDBDA9 /* MainView.swift in Sources */,
 				DF3A5B612A59534E00DDBDA9 /* RegisterViewViewModel.swift in Sources */,
@@ -259,6 +266,7 @@
 				DF3A5B532A59528C00DDBDA9 /* User.swift in Sources */,
 				DF3A5B472A5951AF00DDBDA9 /* ProfileView.swift in Sources */,
 				DF3A5B682A595C6800DDBDA9 /* Colors.swift in Sources */,
+				DF3A5B6C2A5A72F300DDBDA9 /* AdaptsToSoftwareKeyboard.swift in Sources */,
 				DF3A5B262A5949BE00DDBDA9 /* ToDoListApp.swift in Sources */,
 				DF3A5B5F2A59533E00DDBDA9 /* LoginViewViewModel.swift in Sources */,
 				DF3A5B552A5952A600DDBDA9 /* ToDoListItem.swift in Sources */,

@@ -33,7 +33,6 @@ struct HeaderView: View {
             }
             .padding(.top, 30)
         }
-        .ignoresSafeArea(.keyboard)
         .preferredColorScheme(.light)
         .frame(width: UIScreen.main.bounds.width * 3,
                height: 350)
