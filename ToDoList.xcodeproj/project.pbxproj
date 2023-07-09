@@ -34,6 +34,7 @@
 		DF3A5B682A595C6800DDBDA9 /* Colors.swift in Sources */ = {isa = PBXBuildFile; fileRef = DF3A5B672A595C6800DDBDA9 /* Colors.swift */; };
 		DF3A5B6C2A5A72F300DDBDA9 /* AdaptsToSoftwareKeyboard.swift in Sources */ = {isa = PBXBuildFile; fileRef = DF3A5B6B2A5A72F300DDBDA9 /* AdaptsToSoftwareKeyboard.swift */; };
 		DF3A5B6E2A5A8A7600DDBDA9 /* TLButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = DF3A5B6D2A5A8A7600DDBDA9 /* TLButton.swift */; };
+		DF3A5B702A5A98AB00DDBDA9 /* Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = DF3A5B6F2A5A98AB00DDBDA9 /* Extension.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -62,6 +63,7 @@
 		DF3A5B672A595C6800DDBDA9 /* Colors.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Colors.swift; sourceTree = "<group>"; };
 		DF3A5B6B2A5A72F300DDBDA9 /* AdaptsToSoftwareKeyboard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AdaptsToSoftwareKeyboard.swift; sourceTree = "<group>"; };
 		DF3A5B6D2A5A8A7600DDBDA9 /* TLButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TLButton.swift; sourceTree = "<group>"; };
+		DF3A5B6F2A5A98AB00DDBDA9 /* Extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Extension.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -158,6 +160,7 @@
 				DF3A5B292A5949C100DDBDA9 /* Assets.xcassets */,
 				DF3A5B422A5950A500DDBDA9 /* GoogleService-Info.plist */,
 				DF3A5B252A5949BE00DDBDA9 /* ToDoListApp.swift */,
+				DF3A5B6F2A5A98AB00DDBDA9 /* Extension.swift */,
 			);
 			path = Other;
 			sourceTree = "<group>";
@@ -267,6 +270,7 @@
 				DF3A5B472A5951AF00DDBDA9 /* ProfileView.swift in Sources */,
 				DF3A5B682A595C6800DDBDA9 /* Colors.swift in Sources */,
 				DF3A5B6C2A5A72F300DDBDA9 /* AdaptsToSoftwareKeyboard.swift in Sources */,
+				DF3A5B702A5A98AB00DDBDA9 /* Extension.swift in Sources */,
 				DF3A5B262A5949BE00DDBDA9 /* ToDoListApp.swift in Sources */,
 				DF3A5B5F2A59533E00DDBDA9 /* LoginViewViewModel.swift in Sources */,
 				DF3A5B552A5952A600DDBDA9 /* ToDoListItem.swift in Sources */,
