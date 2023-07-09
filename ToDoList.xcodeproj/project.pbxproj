@@ -64,6 +64,7 @@
 		DF3A5B6B2A5A72F300DDBDA9 /* AdaptsToSoftwareKeyboard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AdaptsToSoftwareKeyboard.swift; sourceTree = "<group>"; };
 		DF3A5B6D2A5A8A7600DDBDA9 /* TLButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TLButton.swift; sourceTree = "<group>"; };
 		DF3A5B6F2A5A98AB00DDBDA9 /* Extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Extension.swift; sourceTree = "<group>"; };
+		DF3A5B712A5AA23A00DDBDA9 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -83,6 +84,7 @@
 		DF3A5B192A5949BE00DDBDA9 = {
 			isa = PBXGroup;
 			children = (
+				DF3A5B712A5AA23A00DDBDA9 /* README.md */,
 				DF3A5B242A5949BE00DDBDA9 /* ToDoList */,
 				DF3A5B232A5949BE00DDBDA9 /* Products */,
 			);
