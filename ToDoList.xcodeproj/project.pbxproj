@@ -139,10 +139,10 @@
 				DF3A5B562A5952FF00DDBDA9 /* MainViewViewModel.swift */,
 				DF3A5B582A59530C00DDBDA9 /* ProfileViewViewModel.swift */,
 				DF3A5B5A2A59531900DDBDA9 /* ToDoListViewViewModel.swift */,
+				DF3A5B622A59535E00DDBDA9 /* ToDoListItemsViewViewModel.swift */,
 				DF3A5B5C2A59532F00DDBDA9 /* NewItemViewViewModel.swift */,
 				DF3A5B5E2A59533E00DDBDA9 /* LoginViewViewModel.swift */,
 				DF3A5B602A59534E00DDBDA9 /* RegisterViewViewModel.swift */,
-				DF3A5B622A59535E00DDBDA9 /* ToDoListItemsViewViewModel.swift */,
 			);
 			path = ViewModels;
 			sourceTree = "<group>";
